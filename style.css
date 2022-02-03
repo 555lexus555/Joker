@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+
+.card {
+    background: url("fcf6bd84d3fa3784847cfa53f118751b.jpg") round;
+    position: relative;
+    text-align: center;
+    color: white;
+    align-items: center;
+    height: 100vh;
+    font-family:  'Raleway', sans-serif;;
+}
+.btn {
+    color: white;
+    width: 100px;
+    height: 40px;
+    margin-top: 5%;
+    background-color: rgba(241, 121, 52, 0.788);
+    border-radius: 50px;
+    border: none;
+    cursor: pointer;
+    
+}
+
+h1 {
+    font-size: 200px;
+    margin-top: 5%;
+}
+
+p {
+    margin-top: 50px;
+}
+
+h6 {
+margin-top: 10%;
+display: flex;
+justify-content: flex-start;
+}
